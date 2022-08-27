@@ -1,0 +1,11 @@
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="Balastan.kg" tvg-logo="https://i.imgur.com/nRxEDn2.png" group-title="Kids",Баластан 1(576p) [Not 24/7]
+http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
+#EXTINF:-1 tvg-id="Balastan.kg" tvg-logo="https://i.imgur.com/nRxEDn2.png" group-title="Kids",Баластан 2(576p) [Not 24/7]
+http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
+#EXTINF:-1 tvg-id="Balastan.kg" tvg-logo="https://i.imgur.com/nRxEDn2.png" group-title="Kids",Баластан 3(576p) [Not 24/7]
+http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
+#EXTINF:-1 tvg-id="Balastan.kg" tvg-logo="https://i.imgur.com/nRxEDn2.png" group-title="Kids",Баластан 4(576p) [Not 24/7]
+http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
+#EXTINF:-1 tvg-id="Balastan.kg" tvg-logo="https://i.imgur.com/nRxEDn2.png" group-title="Kids",Баластан 5(576p) [Not 24/7]
+http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
